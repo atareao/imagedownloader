@@ -1,0 +1,4 @@
+src/imagedownloader.py /opt/extras.ubuntu.com/imagedownloader/share/imagedownloader
+bin/imagedownloader /opt/extras.ubuntu.com/imagedownloader/bin
+data/imagedownloader.svg /opt/extras.ubuntu.com/imagedownloader/share/icons
+data/imagedownloader.desktop /usr/share/applications
